@@ -1,0 +1,174 @@
+body, html {
+    color: black;
+  }
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+#raul img{
+   border: 2px dashed navy;
+}
+
+#raul p{
+   color: black;
+}
+
+#raul li a{
+   color: black;
+}
+
+#raul a{
+   color: black;
+}
+
+#moe img{
+  width: 250px;
+  height: 250px;
+  border: 2px dashed navy;
+  background-color: white;
+}
+
+#oscars {
+  width: 384px;
+  height: 288px;
+}
+
+#moe p{
+  color: black;
+}
+
+#moe li a{
+  color: black;
+}
+
+#moe a{
+  color: black;
+}
+
+/* #invis p{
+   color: yellow;
+} */
+
+.Banner {
+   background-color: #7f4235;
+   text-align: center;
+}
+
+.MainText {
+  text-align: center;
+}
+
+html {
+   background-color: yellow;
+}
+
+button {
+    background-color: #7f4235;
+    color: red;
+}
+
+button:hover {
+    background-color: white;
+  color: navy;
+}
+
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+ul {
+    list-style-type: none;
+    /* margin: 0px; */
+    padding: 0px;
+    overflow: hidden;
+    background-color: #45EF62;
+  }
+
+li a:hover {
+  background-color: white;
+  color: navy;
+}
+
+a:hover {
+  background-color: white;
+  color: navy;
+}
+
+#menubar {
+    display: block;
+    text-align: center;
+    padding: 14px 220px;
+    text-decoration: none;
+  }
+
+/* #menubar li a:hover{
+  background-color: white;
+  color: navy;
+} */
+
+#frontpage img{
+  display: block;
+  margin: auto;
+  /* justify-content: center; */
+  border: 2px dashed navy;
+}
+
+#frontpage p{
+  color: black;
+}
+
+#underline p{
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+}
+
+#sizedown img{
+  width: 500px;
+}
+
+#Title{
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#Big {
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#blogpost {
+  background-color: rgb(255, 221, 158);
+  border-style: solid;
+  text-align: center;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+#section {
+  background-color: rgb(255, 221, 158);
+  border-style: solid;
+  padding: 30px;
+  border-radius: 12px;
+}
